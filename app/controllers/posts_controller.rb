@@ -1,3 +1,4 @@
+# The Controller helps handle the actions when we create, edit, show, update, and delete posts on the blog
 class PostsController < ApplicationController
 
   def index
